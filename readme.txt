@@ -5,3 +5,4 @@ creat new branch on it and it can make master branch work
 creat a new branch maybe will error
 i will change it
 kankan hui fasheng sha 
+zhe shi wo zi ji de ce shi
